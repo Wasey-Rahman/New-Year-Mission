@@ -106,7 +106,7 @@ gap: 15px;
     display: flex;
     gap: 100px;
     background:skyblue;
-    padding:130px 200px ;
+    padding:200px 400px ;
 }
 .Contact .title{
     text-align: left;
@@ -141,4 +141,24 @@ gap: 15px;
 .Contact .icon{
     gap: 20px;
 }
+
+
+/* New Resolution Starting */
+.New-Title{
+    font-weight: 700;
+    font-size: 35px;
+    padding:  200px 10px 30px 1000px;
    
+}
+.New-Description{
+    font-size: 20px;
+    padding:  10px 10px 30px 1000px;
+}
+.resolution{
+    float: left;
+    padding: 10px 10px 950px 400px;
+}
+   
+
+
+
