@@ -36,7 +36,7 @@
 }
 /* Failure section */
 .section-title{
-    padding:  300px 10px 30px 950px;
+    padding:  200px 10px 30px 950px;
     font-size: 50px;
     font-weight: 600;
 }
@@ -49,6 +49,26 @@
 }
 .image{
     float: left;
-    padding: 600px 10px 950px 400px;
+    padding: 400px 10px 950px 400px;
 }
+/* My plans */
+.Plan-Title{
+    font-size: 50px;
+    font-weight: 600;
+    padding-top: 100px;
+    
+}
+.plan-container{
+    display: flex;
+    gap: 24px;
+}
+.plan-title-one{
+    margin-top: 50px;
+    font-size: 30px;
+    gap: 15px;
+}
+.Plan-Image{
+padding: 40px 0px 5px 0px ;
+gap: 15px;
 
+}
