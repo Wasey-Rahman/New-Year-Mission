@@ -92,7 +92,7 @@ gap: 15px;
 }
 .grad{
     height: 50vh; 
-    width: 200vw;
+    width: 75vw;
     background-image: linear-gradient(180deg,rgba(215, 68, 19, 0.5),rgb(180, 176, 176,0.5)),url('images/gradient3.png');
    background-size: 100% 100%;
    
@@ -100,5 +100,45 @@ gap: 15px;
 .Grad-Title{
     padding-top: 100px;
     padding-left: 50px;
+}
+/* Contact */
+.Contact{
+    display: flex;
+    gap: 100px;
+    background:skyblue;
+    padding:130px 200px ;
+}
+.Contact .title{
+    text-align: left;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 24px;
+   
+}
+.Call-one{
+    color: purple;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 15px 40px;
+    height: 50px;
+    border-radius: 5px;
+    background: orange;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+.Contact input{
+    margin-bottom: 24px;
+    padding:18px 30px;
+}
+.Contact a{
+    text-decoration: none;
+}
+.Description{
+    margin-bottom: 20px;
+}
+.Contact .icon{
+    gap: 20px;
 }
    
