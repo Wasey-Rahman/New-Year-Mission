@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Ubuntu', sans-serif;
+}
+.header{
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    padding: 100px 400px 0 0;
+}
+
+.btn-primary{
+    color: purple;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 20px 25px;
+    height: 64px;
+    border-radius: 5px;
+    background: orange;
+    margin: 0px 400px 30px 950px;
+}
+.banner-title{
+    margin: 50px 20px 20px 950px;
+    font-weight: 600;
+    font-size: 40px;
+    
+}
+.banner-description{
+    margin: 0px 50px 20px 950px;
+    color: whitesmoke;
+    font-size: 20px;
+
+   
+}
