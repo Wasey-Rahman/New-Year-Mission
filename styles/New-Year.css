@@ -35,9 +35,20 @@
    
 }
 /* Failure section */
-.Failure{
-margin: 50px 400px 30px 950px;
+.section-title{
+    padding:  300px 10px 30px 950px;
+    font-size: 50px;
+    font-weight: 600;
 }
-
-
+.section-description{
+    padding:  10px 10px 30px 950px;
+    font-size: 20px;
+}
+.section-description-one{
+    padding:  5px 10px 30px 950px;
+}
+.image{
+    float: left;
+    padding: 600px 10px 950px 400px;
+}
 
